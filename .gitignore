@@ -1,6 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 # Content Files
-/frontend/public/Content
+frontend/public/Content/
 
 # dependencies
 /node_modules
@@ -109,8 +109,8 @@ target/
 *.pot
 *.pyc
 __pycache__/
-local_settings.py
-/api/api/
+settings.py
+api/api/
 
 .env
 db.sqlite3

@@ -110,7 +110,7 @@ target/
 *.pyc
 __pycache__/
 local_settings.py
-settings.py
+/api/api/
 
 .env
 db.sqlite3
